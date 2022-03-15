@@ -55,7 +55,7 @@
                 </plugins>
             </build>
         </profile>
-    </profiles>
+    </pr2ofiles>
 
 
     <pluginRepositories>
